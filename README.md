@@ -8,7 +8,7 @@ The projects explore soccer player market values, player characteristics, and in
 
 ### Projects
 
-##### Project 1: Exploratory Data Analysis
+#### Project 1: Exploratory Data Analysis
 
 Cleaned and explored soccer player data.
 
@@ -16,7 +16,7 @@ Compared market values across player positions.
 
 Created visualizations and descriptive statistical summaries.
 
-##### Project 2: Statistical Inference
+#### Project 2: Statistical Inference
 
 Constructed confidence intervals for injury-related proportions.
 
