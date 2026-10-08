@@ -38,7 +38,9 @@ Interpreted statistical findings using p-values and confidence intervals.
 
 ### Contributions
 
-These projects were originally submitted as group assignments. All Python programming, statistical analyses, visualizations, and written interpretations in Projects 1 and 2 were independently completed by me.
+Projects 1 & 2: Originally submitted as group assignments, but all Python programming, statistical analyses, visualizations, and written interpretations were independently completed by me.
+
+Project 3: Completed collaboratively as a group project, involving regression modeling, model evaluation, and interpretation of results.
 
 ### Academic Context
 
