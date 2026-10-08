@@ -44,7 +44,7 @@ Data Visualization: Matplotlib, Seaborn
 
 Statistical Modeling: Statsmodels, Scikit-learn
 
-Statistical Methods: Exploratory Data Analysis (EDA), Confidence Intervals, Hypothesis Testing, Multiple Linear Regression, Logistic Regression
+Statistical Methods: Confidence Intervals, Hypothesis Testing, Multiple Linear Regression, Logistic Regression
 
 Model Evaluation: R², RMSE, ROC-AUC, Accuracy, Sensitivity, Specificity
 
