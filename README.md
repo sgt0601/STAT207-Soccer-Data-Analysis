@@ -4,7 +4,7 @@
 
 This contains projects completed for STAT 207: Data Science Exploration at the University of Illinois Urbana-Champaign.
 
-The projects explore soccer player market values, player characteristics, and injury-related factors using Python.
+These projects explore soccer player market values, player characteristics, and injury-related factors through exploratory data analysis, statistical inference, and regression modeling using Python.
 
 ### Projects
 
@@ -22,19 +22,31 @@ Constructed confidence intervals for injury-related proportions.
 
 Conducted hypothesis tests involving player market values.
 
-Interpreted statistical findings using p-values and confidence intervals.
+Interpreted findings using p-values and confidence intervals.
 
-### Tools
+#### Project 3: Regression Modeling
 
--Python
+Built multiple linear regression models to examine factors associated with soccer players' market values.
 
--Pandas
+Applied logistic regression to classify injury-prone players based on player characteristics.
 
--Matplotlib
+Evaluated model performance using R², RMSE, AUC, and classification metrics.
 
--Seaborn
+Identified limitations in the performance of both models.
 
--Statistical inference methods
+### Tools & Technologies
+
+Programming: Python
+
+Data Analysis: Pandas, NumPy
+
+Data Visualization: Matplotlib, Seaborn
+
+Statistical Modeling: Statsmodels, Scikit-learn
+
+Statistical Methods: Exploratory Data Analysis (EDA), Confidence Intervals, Hypothesis Testing, Multiple Linear Regression, Logistic Regression
+
+Model Evaluation: R², RMSE, ROC-AUC, Accuracy, Sensitivity, Specificity
 
 ### Contributions
 
