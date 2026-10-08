@@ -16,7 +16,7 @@ Compared market values across player positions.
 
 Created visualizations and descriptive statistical summaries.
 
-#### Project 2: Statistical Inference
+##### Project 2: Statistical Inference
 
 Constructed confidence intervals for injury-related proportions.
 
